@@ -26,6 +26,13 @@ const App = () => {
       resetAnimation: true
     });
     wow.init();
+    
+//     remove big data load
+    
+     const elem = document.getElementById("starting");
+    window.onload = () => {
+      elem.remove();
+    };
   });
 
   const [theme, switchTheme, componentMounted] = useDarkMode();
