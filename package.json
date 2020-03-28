@@ -6,9 +6,17 @@
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
+    "animate.css": "^3.7.2",
+    "bulma": "^0.8.1",
+    "lodash": "^4.17.15",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1"
+    "react-icons": "^3.9.0",
+    "react-responsive-carousel": "^3.1.51",
+    "react-scripts": "3.4.1",
+    "react-typist": "^2.0.5",
+    "styled-components": "^5.0.1",
+    "wow.js": "^1.2.2"
   },
   "scripts": {
     "start": "react-scripts start",
