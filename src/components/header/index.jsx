@@ -12,7 +12,7 @@ const Header = () => {
         </a>
         <a
           role="button"
-          className="navbar-burger burger"
+          className="navbar-burger burger has-text-link"
           data-target="navMenu"
           aria-label="menu"
           aria-expanded="false"
